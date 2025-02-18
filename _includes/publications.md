@@ -36,6 +36,9 @@
       {% if link.notes %} 
       <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>
       {% endif %}
+      {% if link.website %} 
+      <strong> <i style="color:#e74d3c">{{ link.website }}</i></strong>
+      {% endif %}
       {% if link.others %} 
       {{ link.others }}
       {% endif %}
