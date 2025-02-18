@@ -1,12 +1,8 @@
 main:
-
-  - title: DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove
-    authors: Han Zhang, <strong>Songbo Hu</strong>, Zhecheng Yuan, and Huazhe Xu
-    conference_short: arXiv preprint 
-    conference: arXiv:2502.07730, 2025
-    pdf: https://arxiv.org/abs/2502.07730
-    website: https://do-glove.github.io/
-    image: ./assets/img/doglove.gif
-
-
-  
+  - title: "DOGlove: Dexterous Manipulation with a Low-Cost Open-Source Haptic Force Feedback Glove"
+    authors: "Han Zhang, <strong>Songbo Hu</strong>, Zhecheng Yuan, and Huazhe Xu"
+    conference_short: "arXiv preprint"
+    conference: "arXiv:2502.07730, 2025"
+    pdf: "https://arxiv.org/abs/2502.07730"
+    website: "https://do-glove.github.io/"
+    image: "./assets/img/doglove.gif"
