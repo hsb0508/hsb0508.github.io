@@ -13,7 +13,7 @@ I am broadly interested in research on Embodied AI, RL and IL. As a newcomer to 
 ## News
 
 - **[Feb. 2025]** Our work [DOGlove](https://do-glove.github.io/) is now released!
-
+- **[Apr. 2025]** Our work [DOGlove](https://do-glove.github.io/) is accepted by RSS 2025!
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
