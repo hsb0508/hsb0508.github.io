@@ -4,13 +4,13 @@ layout: homepage
 
 ## About Me
 
-I'm a second-year undergraduate student at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/), Tsinghua University.
+I'm a third-year undergraduate student at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/), Tsinghua University.
 
 ## Background
 
 From 2023 to 2025, I conducted undergraduate research at the TEA Lab, Institute for [Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/), Tsinghua University, under the supervision of Prof. Huazhe Xu.
 
-In the summer of 2025 (June–September), I joined Stanford University as a research intern, co-advised by Prof. Shuran Song and Prof. Karen Liu, where I worked on robotics and learning-based control.
+In the summer of 2025 (June–September), I joined Stanford University as a summer intern, co-advised by Prof. Shuran Song and Prof. Karen Liu, where I worked on robotics and learning-based control.
 
 ## Research Interest
 
